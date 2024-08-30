@@ -1,3 +1,0 @@
-username = hadi
-password = kill
-id = 1234
